@@ -1,9 +1,9 @@
-CREATE=50
+CREATE=80
 CHANNEL_NAME=server was fucked
 WEBHOOK_NAME=server was fucked
 SERVER_NAME=server has nuked
 MESSAGE=@everyone the server was nuked⚠️
-INTERVAL=1.5
+INTERVAL=1.0
 BAN_MEMBERS=true
 CREATE_ROLES=true
 ROLE_COUNT=50
